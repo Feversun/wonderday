@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Info.plist
+   wonderday
+
+   Created by How Sun on 2023/9/25.
+   Copyright (c) 2023 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>我们需要您的位置信息来提供个性化服务</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>我们需要您的位置信息来在后台提供个性化服务</string>
+</dict>
+</plist>
